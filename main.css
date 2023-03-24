@@ -1,0 +1,10 @@
+model-viewer {
+    width: 400px;
+    margin: 25px auto;
+    height: 300px;
+}
+
+.menu {
+    z-index: 1000;
+    position: relative;
+}
